@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="src/SmtMaterialDashboard.Core/SmtMaterialDashboard.Core.csproj" />
+  <Project Path="src/SmtMaterialDashboard.App/SmtMaterialDashboard.App.csproj" />
+  <Project Path="tests/SmtMaterialDashboard.Tests/SmtMaterialDashboard.Tests.csproj" />
+</Solution>

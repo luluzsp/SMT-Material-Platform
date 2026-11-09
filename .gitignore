@@ -1,0 +1,23 @@
+# Local Android configuration and build output
+android/local.properties
+android/.gradle/
+android/**/build/
+android/manual-build-*/
+android/manual-tests-v*/
+android/manual-tests/classes/
+*.keystore
+
+# .NET build output and local test artifacts
+**/bin/
+**/obj/
+dashboard/.artifacts/
+dashboard/test-output/
+
+# Generated installers, archives, and temporary files
+output/
+*.apk
+*.zip
+*.idsig
+*.class
+*.log
+.vs/
